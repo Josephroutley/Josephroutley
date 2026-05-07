@@ -33,12 +33,12 @@ Currently, I balance my time between my engineering studies and site and office 
 
 ### Featured Engineering Projects
 
-#### [Hardware Tick-to-Book: NASDAQ ITCH 5.0 Engine](link-to-repo)
+#### [Hardware Tick-to-Book: NASDAQ ITCH 5.0 Engine](https://github.com/Josephroutley/hw-tick-to-book-itch5)
 *Cycle-accurate, hardware-accelerated Level 2 Order Book engine designed to process real-world financial data.*
 * **Tech:** SystemVerilog, cocotb, Python, Asynchronous FIFOs.
 * **Focus:** Bypassing software network stacks to achieve low latency market data parsing and top-of-book (BBO) sorting in custom BRAM architectures.
 
-#### [AXI4 Tensor Compute Accelerator](link-to-repo)
+#### [AXI4 Tensor Compute Accelerator](https://github.com/Josephroutley/axi4-tensor-accelerator)
 *A high-throughput, 2D spatial dataflow accelerator wrapped in industry-standard AMBA interconnects.*
 * **Tech:** SystemVerilog, Verilator, cocotbext-axi.
 * **Focus:** Pipelined parallel Multiply-Accumulate (MAC) arrays, clock domain crossings, and autonomous AXI4 Direct Memory Access (DMA) burst transactions.
